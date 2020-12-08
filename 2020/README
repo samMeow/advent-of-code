@@ -1,0 +1,7 @@
+```
+cat input.txt | go run day1.go
+cat input.txt | python day2.py
+cat input.txt | node day3.js
+cat input.txt | stack runkaskell day4.hs
+cat input.txt | kotlinc -script day5.kts
+```
