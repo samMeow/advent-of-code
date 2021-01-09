@@ -5,4 +5,6 @@ cat input.txt | node day3.js
 cat input.txt | stack runkaskell day4.hs
 cat input.txt | kotlinc -script day5.kts
 cat input.txt | swift day6.swift
+cat input.txt | ruby day7.rb
+cat input.txt | cargo script day8.rs
 ```
